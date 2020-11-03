@@ -1,1 +1,1 @@
-The data is taken from Ministry of Health and Family Welfare Government of India "https://www.mohfw.gov.in/data/datanew.json". this data is keep on updating so data is different on time to time
+FOR COVID TARCKER The data is taken from Ministry of Health and Family Welfare Government of India "https://www.mohfw.gov.in/data/datanew.json". this data is keep on updating so data is different on time to time
